@@ -27,13 +27,14 @@ void Update(){
    DigiKeyboard.delay(2000);
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
    DigiKeyboard.delay(3000);
-  DigiKeyboard.sendKeyStroke(KEY_6);
+  //Enter Your Password
+  DigiKeyboard.sendKeyStroke(KEY_0);
   DigiKeyboard.delay(200);
-  DigiKeyboard.sendKeyStroke(KEY_4);
+  DigiKeyboard.sendKeyStroke(KEY_0);
   DigiKeyboard.delay(200);
-  DigiKeyboard.sendKeyStroke(KEY_1); 
+  DigiKeyboard.sendKeyStroke(KEY_0); 
   DigiKeyboard.delay(200); 
-  DigiKeyboard.sendKeyStroke(KEY_1);
+  DigiKeyboard.sendKeyStroke(KEY_0);
    DigiKeyboard.delay(2000);
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
    DigiKeyboard.delay(1000);
